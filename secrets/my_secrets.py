@@ -1,0 +1,1 @@
+AZURE_SECRET_TOKEN = 'V5A81rvpZdBKbxtArr4n'
